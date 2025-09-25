@@ -8,7 +8,7 @@ Something something Titanium API
 4. Run the `help` command.
 
 # Limitations
-- Anything that requires a `PUT` request (modifying configuration) is not supported.
+- Anything that requires a `PUT` request (modifying bot configuration) is not supported.
 - No shell completion or history (idk why you'd need those for something like this anyway).
 
 # Special thanks
