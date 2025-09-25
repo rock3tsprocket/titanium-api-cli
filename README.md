@@ -12,4 +12,4 @@ Something something Titanium API
 - No shell completion or history (idk why you'd need those for something like this anyway).
 
 # Special thanks
-go check out [Titanium](https://github.com/RestartB) btw (Titanium V2 is on the v2 branch)
+go check out [Titanium](https://github.com/RestartB/titanium) btw (Titanium V2 is on the v2 branch)
