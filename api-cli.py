@@ -40,9 +40,9 @@ def status():
     
     print(f"Connected to Discord: {r.json()['connected']}\n"
           f"Ping: {r.json()['latency']}ms\n"
-          f"Connected at: {initial_connect} (UTC)\n"
-          f"Last disconneted at: {last_disconnect} (UTC)\n"
-          f"Last resume: {last_resume} (UTC)")
+          f"Connected at: {initial_connect}\n"
+          f"Last disconneted at: {last_disconnect}\n"
+          f"Last resume: {last_resume}")
 
 def stats(): # not to be confused with status
     r = requests.get(f"{url}/stats")
