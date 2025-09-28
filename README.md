@@ -5,7 +5,7 @@ Something something Titanium API
 1. Install the dependencies (`dotenv` and `requests`) by either running `pip install -r requirements.txt` or installing them with your package manager.
 2. If you're not placing the script where Titanium V2 is located, configure the `example.env` file according to Titanium V2's config if the default configuration for it wouldn't work and rename it to `.env`.
 3. Run the script (`./api-cli.py` or `python3 api-cli.py`).
-4. Run the `help` command.
+4. Run the `help` command for a list of commands if you want it.
 
 # Limitations
 - Anything that requires a `PUT` request (modifying bot configuration) is not supported.
